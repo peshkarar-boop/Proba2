@@ -1,2 +1,3 @@
 interface Toping {
+    fun TopingSale()
 }

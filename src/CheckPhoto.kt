@@ -1,2 +1,3 @@
-class CheckPhoto {
+interface CheckPhoto {
+    fun showCheckPhoto()
 }

@@ -1,3 +1,3 @@
-interface  Drink {
-    fun drinkSale()
+interface  Glass {
+    fun glassSale()
 }
