@@ -33,7 +33,7 @@ abstract class CafeDom(
     abstract fun CaramelMochaccinoSale()
     abstract fun LatteSale()
 
-    fun showStatistics(){
+    fun showStatistics( ){
         println("Продано денишей с голубикой: $DenishBlueberryCount")
         println("Продано круассанов: $CroissantCount")
         println("Продано шоколадных круассанов: $ChocolateCroissantCount")
